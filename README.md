@@ -1,2 +1,2 @@
 # Omega
-Website for watching Movies 🎥
+welcome 
